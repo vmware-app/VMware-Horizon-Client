@@ -1,4 +1,4 @@
-# Download VMware Horizon Client
+# VMware Horizon Client
 
 **VMware Horizon Client** for Windows delivers secure, high-performance access to remote desktops and applications. Designed to support multiple systems and devices, it ensures seamless workflows, offering flexibility for remote work, travel, or team collaboration, thereby boosting productivity and efficiency.
 
